@@ -67,8 +67,8 @@ Originally created in CS-360 Mobile Architecture and Programming, this app allow
 </p>
 
 - [Narrative (PDF)](docs/enhancementone.pdf)  
-- [Original Code](original/myapplication)  
-- [Enhanced Code](enhancement1)  
+- [Original Code](original/Myapplication)  
+- [Enhanced Code](Enhancement1)  
 
 
 ---
@@ -81,8 +81,8 @@ For my second enhancement, I applied algorithmic principles by implementing a Bi
 </p>
 
 - [Narrative (PDF)](docs/enhancementtwo.pdf)  
-- [Original Code](original/myapplication)  
-- [Enhanced Code](enhancement2)  
+- [Original Code](original/Myapplication)  
+- [Enhanced Code](Enhancement2)  
 
 ---
 
