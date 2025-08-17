@@ -99,6 +99,7 @@ My third enhancement focused on database integration and security. Building on a
 - [Original Code](original/Project2)  
 - [Enhanced Code](Enhancement3)  
 
+<img src="Enhancement3/Database.png" alt="Screenshot" width="400">
 
 ---
 
