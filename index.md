@@ -67,7 +67,7 @@ Originally created in CS-360 Mobile Architecture and Programming, this app allow
 </p>
 
 - [Narrative (PDF)](docs/enhancementone.pdf)  
-- [Original Code](original/Myapplication)  
+- [Original Code](original/MyApplication)  
 - [Enhanced Code](Enhancement1)  
 
 
@@ -81,7 +81,7 @@ For my second enhancement, I applied algorithmic principles by implementing a Bi
 </p>
 
 - [Narrative (PDF)](docs/enhancementtwo.pdf)  
-- [Original Code](original/Myapplication)  
+- [Original Code](original/MyApplication)  
 - [Enhanced Code](Enhancement2)  
 
 ---
@@ -94,7 +94,7 @@ My third enhancement focused on database integration and security. Building on a
 </p>
 
 - [Narrative (PDF)](docs/enhancementthree.pdf)  
-- [Original Code](original/project2)  
+- [Original Code](original/Project2)  
 - [Enhanced Code](Enhancement3)  
 
 
