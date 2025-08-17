@@ -44,7 +44,18 @@ My code review video walks through each of my three artifacts, highlighting exis
 - **Code analysis:** Structure, efficiency, maintainability, and security concerns.  
 - **Enhancements:** Planned refactor to MVVM, optimized BST, and secure database integration.  
 
-<iframe align="center" width="900" height="480" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="display:flex; justify-content:center; margin:1rem 0;">
+  <iframe
+    width="360"
+    height="360"
+    src="https://www.youtube.com/embed/8gCp_AcouB0"
+    title="Code Review"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="border:0; border-radius:12px;"
+  ></iframe>
+</div>
 
 ---
 
