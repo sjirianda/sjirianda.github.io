@@ -71,7 +71,9 @@ Originally created in CS-360 Mobile Architecture and Programming, this app allow
 - [Original Code](original/MyApplication/MyApplication)  
 - [Enhanced Code](Enhancement1)
 
-![Screenshot of Mobile Appiclation](/Enhancement1/App.png)
+<p align="center">
+  <img src="app.png" alt="App Screenshot" width="400"/>
+</p>
 
 ---
 
