@@ -57,6 +57,7 @@ My code review video walks through each of my three artifacts, highlighting exis
   ></iframe>
 </div>
 
+
 ---
 
 ## **Artifact 1 — Software Design & Engineering**
@@ -68,8 +69,9 @@ Originally created in CS-360 Mobile Architecture and Programming, this app allow
 
 - [Narrative (PDF)](docs/enhancementone.pdf)  
 - [Original Code](original/MyApplication/MyApplication)  
-- [Enhanced Code](Enhancement1)  
+- [Enhanced Code](Enhancement1)
 
+![Screenshot of Mobile Appiclation](/Enhancement1/App.png)
 
 ---
 
