@@ -13,7 +13,7 @@ Over the course of the program, I expanded my skills from application developmen
 </p>
 
 <p style="text-indent: 55px;">
-Data structures and algorithms provided me with the tools to approach problem solving with efficiency. I applied these concepts directly in enhancements such as building a Binary Search Tree to optimize searches within my weight tracking app. Software engineering principles were reinforced by my refactor of the same application into an MVVM architecture, supported by testing and CI/CD. In database management, I integrated MongoDB with Flask and Dash to create a secure, data-driven analytics platform. Across each of these projects, I incorporated a security mindset — validating inputs, applying least-privilege principles, and protecting sensitive data.
+Data structures and algorithms provided me with the tools to approach problem solving with efficiency. I applied these concepts directly in enhancements such as building a Binary Search Tree to optimize searches within my weight tracking app. Software engineering principles were reinforced by my refactor of the same application into an MVVM architecture, supported by testing and CI/CD. In database management, I integrated MongoDB with Flask and Dash to create a secure, data-driven analytics platform. Across each of these projects, I incorporated a security mindset by validating inputs, applying least-privilege principles, and protecting sensitive data.
 </p>
 
 <p style="text-indent: 55px;">
@@ -37,7 +37,7 @@ My goal is to continue growing as a Cybersecurity and Cloud professional. This p
 ### Overview:
 
 <p style="text-indent: 55px;">
-My code review video walks through each of my three artifacts, highlighting existing functionality, areas for improvement, and planned enhancements. I demonstrate professional-quality communication while analyzing structure, efficiency, testing, and security. The review covers my Android Weight Tracker App (software design and engineering), the Binary Search Tree enhancement (algorithms and data structures), and the MongoDB + Flask + Dash project (databases).
+My code review video walks through each of my three artifacts, highlighting existing functionality, areas for improvement, and planned enhancements. I demonstrate professional-quality communication while analyzing structure, efficiency, testing, and security. The review covers my Android Weight Tracker App (software design and engineering), the Binary Search Tree enhancement (algorithms and data structures), and the MongoDB + Flask project (databases).
 </p>
 
 - **Existing functionality:** Overview of features and limitations in each original artifact.  
@@ -63,12 +63,12 @@ My code review video walks through each of my three artifacts, highlighting exis
 ### Android Weight Tracking App (MVVM Refactor)
 
 <p style="text-indent: 55px;">
-Originally created in CS-360 Mobile Architecture and Programming, this app allowed users to log and track daily weight entries using SQLite. For enhancement, I refactored the code into an MVVM architecture, implemented Room with DAO for data persistence, and added JUnit and Espresso tests. I also integrated GitHub Actions for CI/CD, ensuring that builds and tests run automatically. Security enhancements included input validation and least-privilege database access.
+Originally created in CS-360 Mobile Architecture and Programming, this app allowed users to log and track daily weight entries using SQLite. For enhancement, I refactored the code into an MVVM architecture, implemented Room with DAO for data persistence, and added JUnit and Espresso tests. Security enhancements included input validation and least-privilege database access.
 </p>
 
 - [Narrative (PDF)](docs/enhancementone.pdf)  
-- [Original Code](artifact1/original)  
-- [Enhanced Code](artifact1/enhanced)  
+- [Original Code](original/myapplication)  
+- [Enhanced Code](enhancement1)  
 
 
 ---
@@ -77,12 +77,12 @@ Originally created in CS-360 Mobile Architecture and Programming, this app allow
 ### Binary Search Tree for Weight Entries
 
 <p style="text-indent: 55px;">
-For my second enhancement, I applied algorithmic principles by implementing a Binary Search Tree (BST) to handle weight entries more efficiently. This allowed searches by date to operate in O(log n) time rather than O(n). I developed unit tests to verify correctness and created benchmarks to compare BST performance with a linear scan. The results demonstrated significant efficiency gains on larger datasets.
+For my second enhancement, I applied algorithmic principles by implementing a Binary Search Tree (BST) to handle weight entries more efficiently. This allowed searches by date to operate in O(log n) time rather than O(n). I developed unit tests to verify correctness.
 </p>
 
 - [Narrative (PDF)](docs/enhancementtwo.pdf)  
-- [Original Code](artifact2/original)  
-- [Enhanced Code](artifact2/enhanced)  
+- [Original Code](original/myapplication)  
+- [Enhanced Code](enhancement2)  
 
 ---
 
@@ -90,12 +90,12 @@ For my second enhancement, I applied algorithmic principles by implementing a Bi
 ### MongoDB CRUD + Flask REST API 
 
 <p style="text-indent: 55px;">
-My third enhancement focused on database integration and security. Building on a CRUD module developed for animal shelter data, I created a Flask REST API with authentication and parameterized queries. I also applied database indexing and query analysis using PyMongo’s <code>explain()</code>. Security measures included password hashing, validation, and role-based access.
+My third enhancement focused on database integration and security. Building on a CRUD module developed for animal shelter data, I created a Flask REST API with authentication and parameterized queries. I also applied database indexing and query analysis using PyMongo.
 </p>
 
 - [Narrative (PDF)](docs/enhancementthree.pdf)  
-- [Original Code](artifact3/original)  
-- [Enhanced Code](artifact3/enhanced)  
+- [Original Code](original/project2)  
+- [Enhanced Code](Enhancement3)  
 
 
 ---
